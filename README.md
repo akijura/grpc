@@ -1,2 +1,2 @@
-# grpc
-gRPC client and server
+# grpc-ch12
+gRPC example
